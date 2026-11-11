@@ -1,0 +1,334 @@
+{
+ "name": "sawtooth-vsl-16x9",
+ "format": "16:9",
+ "brand": {
+  "name": "Sawtooth Leads",
+  "mark": "assets/tree.png"
+ },
+ "theme": {
+  "accent": "#F26A1B",
+  "dark": "#0B281E",
+  "light": "#F3EEE1",
+  "ink": "#0B281E",
+  "paper": "#F3EEE1",
+  "font": "Barlow Condensed",
+  "fontFiles": {
+   "600": "assets/fonts/barlow-condensed-latin-600-normal.woff2",
+   "700": "assets/fonts/barlow-condensed-latin-700-normal.woff2",
+   "800": "assets/fonts/barlow-condensed-latin-800-normal.woff2"
+  }
+ },
+ "music": {
+  "synth": true,
+  "gain": 0.22
+ },
+ "mix": {
+  "vo": 1.0,
+  "duck": 0.5,
+  "sfx": 0.3
+ },
+ "vo": {
+  "lead": 0.15,
+  "pre": 0.06,
+  "post": 0.18,
+  "hold": 0.45,
+  "level": -17,
+  "denoise_db": 12
+ },
+ "scenes": [
+  {
+   "type": "text",
+   "bg": "dark",
+   "size": 170,
+   "weight": 700,
+   "vo": "{$2,600} in ad spend"
+  },
+  {
+   "type": "text",
+   "bg": "dark",
+   "size": 170,
+   "weight": 700,
+   "join": true,
+   "vo": "turned into {$176,000} in signed work."
+  },
+  {
+   "type": "text",
+   "bg": "dark",
+   "mode": "type",
+   "vo": "When contractors get on a call with me,",
+   "size": 120
+  },
+  {
+   "type": "text",
+   "bg": "dark",
+   "vo": "They've usually tried _Angi, HomeAdvisor,_ or _Thumbtack,_",
+   "join": true,
+   "size": 120
+  },
+  {
+   "type": "text",
+   "bg": "dark",
+   "join": true,
+   "vo": "or they've paid an [agency.]",
+   "size": 120
+  },
+  {
+   "type": "text",
+   "bg": "dark",
+   "mode": "type",
+   "vo": "[Shared leads,] where five other contractors call the same homeowner.",
+   "size": 120
+  },
+  {
+   "type": "text",
+   "bg": "dark",
+   "mode": "type",
+   "size": 170,
+   "vo": "Tire kickers."
+  },
+  {
+   "type": "text",
+   "bg": "dark",
+   "vo": "Paying for clicks and form fills that [nobody ever calls back,]",
+   "size": 120
+  },
+  {
+   "type": "text",
+   "bg": "dark",
+   "vo": "and agencies that hand you a spreadsheet of names",
+   "size": 120
+  },
+  {
+   "type": "text",
+   "bg": "dark",
+   "join": true,
+   "vo": "and call that a [result.]",
+   "size": 120
+  },
+  {
+   "type": "logo",
+   "bg": "glow",
+   "dur": 2.4,
+   "tagline": "We put revenue|on your books."
+  },
+  {
+   "type": "text",
+   "bg": "dark",
+   "vo": "We don't just run ads.",
+   "size": 120
+  },
+  {
+   "type": "text",
+   "bg": "dark",
+   "join": true,
+   "vo": "Running ads is the [easy part.]",
+   "size": 120
+  },
+  {
+   "type": "ui",
+   "bg": "light",
+   "frame": "none",
+   "src": "assets/bay-central.png",
+   "width": 0.5,
+   "cam": "push",
+   "vo": "Bay Central Builder Group, Harry's company, in California.",
+   "text": "Harry's company, in [California.]",
+   "side": "left"
+  },
+  {
+   "type": "ui",
+   "bg": "light",
+   "src": "assets/ads-card.png",
+   "title": "Meta Ads Manager",
+   "width": 0.45,
+   "side": "left",
+   "vo": "In about six weeks we spent {$2,600} on ads.",
+   "text": "About six weeks. {$2,600} on ads.",
+   "cam": "push",
+   "focus": [
+    {
+     "at": 1.2,
+     "rect": [
+      0.04,
+      0.755,
+      0.4,
+      0.165
+     ],
+     "s": 1.12
+    }
+   ]
+  },
+  {
+   "type": "ui",
+   "bg": "light",
+   "src": "assets/ads-card.png",
+   "title": "Meta Ads Manager",
+   "width": 0.45,
+   "side": "left",
+   "vo": "That brought in {68} leads.",
+   "cam": "still",
+   "focus": [
+    {
+     "at": 0.4,
+     "rect": [
+      0.04,
+      0.275,
+      0.4,
+      0.2
+     ],
+     "s": 1.12
+    }
+   ],
+   "text": "That brought in {68} leads."
+  },
+  {
+   "type": "text",
+   "bg": "light",
+   "size": 120,
+   "vo": "We called them, qualified them, and booked {32} appointments."
+  },
+  {
+   "type": "text",
+   "bg": "light",
+   "vo": "Harry closed four bathroom remodels,",
+   "size": 120
+  },
+  {
+   "type": "text",
+   "bg": "lightglow",
+   "size": 170,
+   "weight": 700,
+   "join": true,
+   "vo": "worth {$176,000.}"
+  },
+  {
+   "type": "text",
+   "bg": "dark",
+   "vo": "When a lead comes in, you get an alert in your own private [Slack] channel.",
+   "size": 120
+  },
+  {
+   "type": "text",
+   "bg": "dark",
+   "vo": "My team calls every homeowner [within minutes]",
+   "size": 120
+  },
+  {
+   "type": "text",
+   "bg": "dark",
+   "join": true,
+   "vo": "of them filling out the form,",
+   "size": 120
+  },
+  {
+   "type": "text",
+   "bg": "dark",
+   "join": true,
+   "vo": "seven days a week. [Sundays too.]",
+   "size": 120
+  },
+  {
+   "type": "text",
+   "bg": "light",
+   "size": 120,
+   "vo": "We qualify them, book them onto your calendar, and handle the [follow-up.]"
+  },
+  {
+   "type": "text",
+   "bg": "dark",
+   "vo": "_\"I tried Facebook ads and the leads were garbage.\"_",
+   "size": 120
+  },
+  {
+   "type": "text",
+   "bg": "dark",
+   "vo": "Facebook didn't [fail you.]",
+   "size": 120
+  },
+  {
+   "type": "text",
+   "bg": "dark",
+   "vo": "Nobody called those leads in the first five minutes",
+   "size": 120
+  },
+  {
+   "type": "text",
+   "bg": "dark",
+   "join": true,
+   "vo": "and nobody [qualified] them.",
+   "size": 120
+  },
+  {
+   "type": "text",
+   "bg": "glow",
+   "size": 170,
+   "vo": "That's the [part we do.]"
+  },
+  {
+   "type": "text",
+   "bg": "light",
+   "vo": "General contractors and home improvement companies.",
+   "size": 120
+  },
+  {
+   "type": "text",
+   "bg": "light",
+   "join": true,
+   "vo": "Remodels, kitchens, bathrooms, *ADUs,* and additions.",
+   "size": 120
+  },
+  {
+   "type": "text",
+   "bg": "dark",
+   "vo": "We turn away contractors who [can't take on more work.]",
+   "size": 120
+  },
+  {
+   "type": "text",
+   "bg": "dark",
+   "vo": "So, what should you do next?",
+   "size": 120
+  },
+  {
+   "type": "text",
+   "bg": "glow",
+   "size": 170,
+   "join": true,
+   "vo": "[Book a call.]"
+  },
+  {
+   "type": "text",
+   "bg": "glow",
+   "vo": "It's with me, not a sales rep.",
+   "size": 120
+  },
+  {
+   "type": "text",
+   "bg": "glow",
+   "vo": "I'll tell you straight whether we're a [fit.]",
+   "size": 120
+  },
+  {
+   "type": "text",
+   "bg": "glow",
+   "vo": "If we are, I'll show you a demo",
+   "size": 120
+  },
+  {
+   "type": "text",
+   "bg": "glow",
+   "join": true,
+   "vo": "of exactly how it works.",
+   "size": 120
+  },
+  {
+   "type": "text",
+   "bg": "glow",
+   "dur": 3.2,
+   "hold": 0.4,
+   "size": 150,
+   "text": "@brand",
+   "sub": "One contractor per area \u00b7 sawtoothleads.us"
+  }
+ ]
+}

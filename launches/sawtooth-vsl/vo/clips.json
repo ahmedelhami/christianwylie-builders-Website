@@ -1,0 +1,1467 @@
+{
+ "0": {
+  "text": "$2,600 in ad spend turned into $176,000 in signed work.",
+  "file": "vo/clips/u00.wav",
+  "provider": "voice",
+  "voice": "ahmed-voicenote",
+  "words": [
+   {
+    "w": "$2,600",
+    "s": 0.103,
+    "e": 1.003
+   },
+   {
+    "w": "in",
+    "s": 1.382,
+    "e": 1.532
+   },
+   {
+    "w": "ad",
+    "s": 1.542,
+    "e": 1.772
+   },
+   {
+    "w": "spend",
+    "s": 1.782,
+    "e": 2.172
+   },
+   {
+    "w": "turned",
+    "s": 2.182,
+    "e": 2.492
+   },
+   {
+    "w": "into",
+    "s": 2.502,
+    "e": 2.652
+   },
+   {
+    "w": "$176,000",
+    "s": 2.662,
+    "e": 3.562
+   },
+   {
+    "w": "in",
+    "s": 4.662,
+    "e": 4.892
+   },
+   {
+    "w": "signed",
+    "s": 4.902,
+    "e": 5.292
+   },
+   {
+    "w": "work.",
+    "s": 5.302,
+    "e": 5.68
+   }
+  ]
+ },
+ "1": {
+  "text": "When contractors get on a call with me, They've usually tried Angi, HomeAdvisor, or Thumbtack, or they've paid an agency.",
+  "file": "vo/clips/u01.wav",
+  "provider": "voice",
+  "voice": "ahmed-voicenote",
+  "words": [
+   {
+    "w": "When",
+    "s": 0.09,
+    "e": 0.32
+   },
+   {
+    "w": "contractors",
+    "s": 0.33,
+    "e": 0.96
+   },
+   {
+    "w": "get",
+    "s": 0.97,
+    "e": 1.12
+   },
+   {
+    "w": "on",
+    "s": 1.13,
+    "e": 1.28
+   },
+   {
+    "w": "a",
+    "s": 1.29,
+    "e": 1.37
+   },
+   {
+    "w": "call",
+    "s": 1.37,
+    "e": 1.52
+   },
+   {
+    "w": "with",
+    "s": 1.53,
+    "e": 1.68
+   },
+   {
+    "w": "me,",
+    "s": 1.69,
+    "e": 2.0
+   },
+   {
+    "w": "they've",
+    "s": 2.01,
+    "e": 2.32
+   },
+   {
+    "w": "usually",
+    "s": 2.33,
+    "e": 2.64
+   },
+   {
+    "w": "tried",
+    "s": 2.65,
+    "e": 2.96
+   },
+   {
+    "w": "Angie,",
+    "s": 2.97,
+    "e": 3.68
+   },
+   {
+    "w": "Home",
+    "s": 3.69,
+    "e": 3.92
+   },
+   {
+    "w": "Advisor,",
+    "s": 3.93,
+    "e": 4.48
+   },
+   {
+    "w": "or",
+    "s": 4.49,
+    "e": 4.57
+   },
+   {
+    "w": "Thumbtack,",
+    "s": 4.57,
+    "e": 5.44
+   },
+   {
+    "w": "or",
+    "s": 5.45,
+    "e": 5.6
+   },
+   {
+    "w": "they've",
+    "s": 5.61,
+    "e": 5.84
+   },
+   {
+    "w": "paid",
+    "s": 5.85,
+    "e": 6.0
+   },
+   {
+    "w": "an",
+    "s": 6.01,
+    "e": 6.16
+   },
+   {
+    "w": "agency.",
+    "s": 6.17,
+    "e": 6.68
+   }
+  ]
+ },
+ "2": {
+  "text": "Shared leads, where five other contractors call the same homeowner.",
+  "file": "vo/clips/u02.wav",
+  "provider": "voice",
+  "voice": "ahmed-voicenote",
+  "words": [
+   {
+    "w": "Shared",
+    "s": 0.13,
+    "e": 0.6
+   },
+   {
+    "w": "leads,",
+    "s": 0.61,
+    "e": 1.16
+   },
+   {
+    "w": "where",
+    "s": 1.17,
+    "e": 1.4
+   },
+   {
+    "w": "five",
+    "s": 1.41,
+    "e": 1.72
+   },
+   {
+    "w": "other",
+    "s": 1.73,
+    "e": 1.88
+   },
+   {
+    "w": "contractors",
+    "s": 1.89,
+    "e": 2.6
+   },
+   {
+    "w": "call",
+    "s": 2.61,
+    "e": 2.84
+   },
+   {
+    "w": "the",
+    "s": 2.85,
+    "e": 3.0
+   },
+   {
+    "w": "same",
+    "s": 3.01,
+    "e": 3.24
+   },
+   {
+    "w": "homeowner.",
+    "s": 3.25,
+    "e": 3.93
+   }
+  ]
+ },
+ "3": {
+  "text": "Tire kickers.",
+  "file": "vo/clips/u03.wav",
+  "provider": "voice",
+  "voice": "ahmed-voicenote",
+  "words": [
+   {
+    "w": "Tire",
+    "s": 0.05,
+    "e": 0.44
+   },
+   {
+    "w": "kickers.",
+    "s": 0.45,
+    "e": 1.18
+   }
+  ]
+ },
+ "4": {
+  "text": "Paying for clicks and form fills that nobody ever calls back,",
+  "file": "vo/clips/u04.wav",
+  "provider": "voice",
+  "voice": "ahmed-voicenote",
+  "words": [
+   {
+    "w": "Paying",
+    "s": 0.052,
+    "e": 0.282
+   },
+   {
+    "w": "for",
+    "s": 0.292,
+    "e": 0.443
+   },
+   {
+    "w": "clicks",
+    "s": 0.453,
+    "e": 0.842
+   },
+   {
+    "w": "and",
+    "s": 0.852,
+    "e": 1.003
+   },
+   {
+    "w": "form",
+    "s": 1.013,
+    "e": 1.322
+   },
+   {
+    "w": "fills",
+    "s": 1.332,
+    "e": 1.722
+   },
+   {
+    "w": "that",
+    "s": 1.732,
+    "e": 1.882
+   },
+   {
+    "w": "nobody",
+    "s": 1.892,
+    "e": 2.282
+   },
+   {
+    "w": "ever",
+    "s": 2.292,
+    "e": 2.603
+   },
+   {
+    "w": "calls",
+    "s": 2.613,
+    "e": 3.002
+   },
+   {
+    "w": "back,",
+    "s": 3.012,
+    "e": 3.43
+   }
+  ]
+ },
+ "5": {
+  "text": "and agencies that hand you a spreadsheet of names and call that a result.",
+  "file": "vo/clips/u05.wav",
+  "provider": "voice",
+  "voice": "ahmed-voicenote",
+  "words": [
+   {
+    "w": "and",
+    "s": 0.072,
+    "e": 0.222
+   },
+   {
+    "w": "agencies",
+    "s": 0.232,
+    "e": 0.863
+   },
+   {
+    "w": "that",
+    "s": 0.873,
+    "e": 1.022
+   },
+   {
+    "w": "hand",
+    "s": 1.032,
+    "e": 1.182
+   },
+   {
+    "w": "you",
+    "s": 1.192,
+    "e": 1.343
+   },
+   {
+    "w": "a",
+    "s": 1.353,
+    "e": 1.502
+   },
+   {
+    "w": "spreadsheet",
+    "s": 1.512,
+    "e": 2.062
+   },
+   {
+    "w": "of",
+    "s": 2.072,
+    "e": 2.222
+   },
+   {
+    "w": "names",
+    "s": 2.232,
+    "e": 2.542
+   },
+   {
+    "w": "and",
+    "s": 2.552,
+    "e": 2.702
+   },
+   {
+    "w": "call",
+    "s": 2.712,
+    "e": 2.942
+   },
+   {
+    "w": "that",
+    "s": 2.952,
+    "e": 3.102
+   },
+   {
+    "w": "a",
+    "s": 3.112,
+    "e": 3.262
+   },
+   {
+    "w": "result.",
+    "s": 3.272,
+    "e": 3.93
+   }
+  ]
+ },
+ "6": {
+  "text": "We don't just run ads. Running ads is the easy part.",
+  "file": "vo/clips/u06.wav",
+  "provider": "voice",
+  "voice": "ahmed-voicenote",
+  "words": [
+   {
+    "w": "We",
+    "s": 0.08,
+    "e": 0.23
+   },
+   {
+    "w": "don't",
+    "s": 0.24,
+    "e": 0.47
+   },
+   {
+    "w": "just",
+    "s": 0.48,
+    "e": 0.63
+   },
+   {
+    "w": "run",
+    "s": 0.64,
+    "e": 0.87
+   },
+   {
+    "w": "ads.",
+    "s": 0.88,
+    "e": 1.51
+   },
+   {
+    "w": "Running",
+    "s": 1.52,
+    "e": 1.91
+   },
+   {
+    "w": "ads",
+    "s": 1.92,
+    "e": 2.23
+   },
+   {
+    "w": "is",
+    "s": 2.24,
+    "e": 2.39
+   },
+   {
+    "w": "the",
+    "s": 2.4,
+    "e": 2.48
+   },
+   {
+    "w": "easy",
+    "s": 2.48,
+    "e": 2.87
+   },
+   {
+    "w": "part.",
+    "s": 2.88,
+    "e": 3.23
+   }
+  ]
+ },
+ "7": {
+  "text": "Bay Central Builder Group, Harry's company, in California.",
+  "file": "vo/clips/u07.wav",
+  "provider": "voice",
+  "voice": "ahmed-voicenote",
+  "words": [
+   {
+    "w": "Bay",
+    "s": 0.073,
+    "e": 0.382
+   },
+   {
+    "w": "Central",
+    "s": 0.392,
+    "e": 0.782
+   },
+   {
+    "w": "Builder",
+    "s": 0.792,
+    "e": 1.103
+   },
+   {
+    "w": "Group,",
+    "s": 1.113,
+    "e": 1.502
+   },
+   {
+    "w": "Harry's",
+    "s": 1.512,
+    "e": 1.902
+   },
+   {
+    "w": "Company,",
+    "s": 1.912,
+    "e": 2.382
+   },
+   {
+    "w": "in",
+    "s": 2.392,
+    "e": 2.622
+   },
+   {
+    "w": "California.",
+    "s": 2.632,
+    "e": 3.33
+   }
+  ]
+ },
+ "8": {
+  "text": "In about six weeks we spent $2,600 on ads.",
+  "file": "vo/clips/u08.wav",
+  "provider": "voice",
+  "voice": "ahmed-voicenote",
+  "words": [
+   {
+    "w": "In",
+    "s": 0.093,
+    "e": 0.242
+   },
+   {
+    "w": "about",
+    "s": 0.252,
+    "e": 0.482
+   },
+   {
+    "w": "six",
+    "s": 0.492,
+    "e": 0.802
+   },
+   {
+    "w": "weeks",
+    "s": 0.812,
+    "e": 1.202
+   },
+   {
+    "w": "we",
+    "s": 1.212,
+    "e": 1.362
+   },
+   {
+    "w": "spent",
+    "s": 1.372,
+    "e": 1.683
+   },
+   {
+    "w": "$2,600",
+    "s": 1.693,
+    "e": 2.593
+   },
+   {
+    "w": "on",
+    "s": 2.892,
+    "e": 3.042
+   },
+   {
+    "w": "ads.",
+    "s": 3.052,
+    "e": 3.58
+   }
+  ]
+ },
+ "9": {
+  "text": "That brought in 68 leads.",
+  "file": "vo/clips/u09.wav",
+  "provider": "voice",
+  "voice": "ahmed-voicenote",
+  "words": [
+   {
+    "w": "That",
+    "s": 0.08,
+    "e": 0.39
+   },
+   {
+    "w": "brought",
+    "s": 0.4,
+    "e": 0.63
+   },
+   {
+    "w": "in",
+    "s": 0.64,
+    "e": 0.87
+   },
+   {
+    "w": "68",
+    "s": 0.88,
+    "e": 1.51
+   },
+   {
+    "w": "leads.",
+    "s": 1.52,
+    "e": 2.13
+   }
+  ]
+ },
+ "10": {
+  "text": "We called them, qualified them, and booked 32 appointments.",
+  "file": "vo/clips/u10.wav",
+  "provider": "voice",
+  "voice": "ahmed-voicenote",
+  "words": [
+   {
+    "w": "We",
+    "s": 0.04,
+    "e": 0.19
+   },
+   {
+    "w": "called",
+    "s": 0.2,
+    "e": 0.51
+   },
+   {
+    "w": "them,",
+    "s": 0.52,
+    "e": 0.91
+   },
+   {
+    "w": "qualified",
+    "s": 0.92,
+    "e": 1.55
+   },
+   {
+    "w": "them,",
+    "s": 1.56,
+    "e": 1.79
+   },
+   {
+    "w": "and",
+    "s": 1.8,
+    "e": 1.95
+   },
+   {
+    "w": "booked",
+    "s": 1.96,
+    "e": 2.35
+   },
+   {
+    "w": "32",
+    "s": 2.36,
+    "e": 2.91
+   },
+   {
+    "w": "appointments.",
+    "s": 2.92,
+    "e": 3.53
+   }
+  ]
+ },
+ "11": {
+  "text": "Harry closed four bathroom remodels, worth $176,000.",
+  "file": "vo/clips/u11.wav",
+  "provider": "voice",
+  "voice": "ahmed-voicenote",
+  "words": [
+   {
+    "w": "Harry",
+    "s": 0.04,
+    "e": 0.43
+   },
+   {
+    "w": "closed",
+    "s": 0.44,
+    "e": 0.83
+   },
+   {
+    "w": "four",
+    "s": 0.84,
+    "e": 1.15
+   },
+   {
+    "w": "bathroom",
+    "s": 1.16,
+    "e": 1.63
+   },
+   {
+    "w": "remodels,",
+    "s": 1.64,
+    "e": 2.43
+   },
+   {
+    "w": "worth",
+    "s": 2.44,
+    "e": 2.67
+   },
+   {
+    "w": "$176,000.",
+    "s": 2.68,
+    "e": 3.58
+   }
+  ]
+ },
+ "12": {
+  "text": "When a lead comes in, you get an alert in your own private Slack channel.",
+  "file": "vo/clips/u12.wav",
+  "provider": "voice",
+  "voice": "ahmed-voicenote",
+  "words": [
+   {
+    "w": "When",
+    "s": 0.05,
+    "e": 0.2
+   },
+   {
+    "w": "a",
+    "s": 0.21,
+    "e": 0.36
+   },
+   {
+    "w": "lead",
+    "s": 0.37,
+    "e": 0.68
+   },
+   {
+    "w": "comes",
+    "s": 0.69,
+    "e": 0.92
+   },
+   {
+    "w": "in,",
+    "s": 0.93,
+    "e": 1.24
+   },
+   {
+    "w": "you",
+    "s": 1.25,
+    "e": 1.4
+   },
+   {
+    "w": "get",
+    "s": 1.41,
+    "e": 1.56
+   },
+   {
+    "w": "an",
+    "s": 1.57,
+    "e": 1.72
+   },
+   {
+    "w": "alert",
+    "s": 1.73,
+    "e": 2.12
+   },
+   {
+    "w": "in",
+    "s": 2.13,
+    "e": 2.28
+   },
+   {
+    "w": "your",
+    "s": 2.29,
+    "e": 2.44
+   },
+   {
+    "w": "own",
+    "s": 2.45,
+    "e": 2.68
+   },
+   {
+    "w": "private",
+    "s": 2.69,
+    "e": 3.08
+   },
+   {
+    "w": "Slack",
+    "s": 3.09,
+    "e": 3.4
+   },
+   {
+    "w": "channel.",
+    "s": 3.41,
+    "e": 3.83
+   }
+  ]
+ },
+ "13": {
+  "text": "My team calls every homeowner within minutes of them filling out the form, seven days a week. Sundays too.",
+  "file": "vo/clips/u13.wav",
+  "provider": "voice",
+  "voice": "ahmed-voicenote",
+  "words": [
+   {
+    "w": "my",
+    "s": 0.1,
+    "e": 0.33
+   },
+   {
+    "w": "team",
+    "s": 0.34,
+    "e": 0.65
+   },
+   {
+    "w": "calls",
+    "s": 0.66,
+    "e": 0.97
+   },
+   {
+    "w": "every",
+    "s": 0.98,
+    "e": 1.21
+   },
+   {
+    "w": "homeowner",
+    "s": 1.22,
+    "e": 1.85
+   },
+   {
+    "w": "within",
+    "s": 1.86,
+    "e": 2.17
+   },
+   {
+    "w": "minutes",
+    "s": 2.18,
+    "e": 2.49
+   },
+   {
+    "w": "of",
+    "s": 2.5,
+    "e": 2.65
+   },
+   {
+    "w": "them",
+    "s": 2.66,
+    "e": 2.81
+   },
+   {
+    "w": "filling",
+    "s": 2.82,
+    "e": 3.13
+   },
+   {
+    "w": "out",
+    "s": 3.14,
+    "e": 3.29
+   },
+   {
+    "w": "the",
+    "s": 3.3,
+    "e": 3.45
+   },
+   {
+    "w": "form,",
+    "s": 3.46,
+    "e": 3.93
+   },
+   {
+    "w": "seven",
+    "s": 3.94,
+    "e": 4.25
+   },
+   {
+    "w": "days",
+    "s": 4.26,
+    "e": 4.49
+   },
+   {
+    "w": "a",
+    "s": 4.5,
+    "e": 4.65
+   },
+   {
+    "w": "week,",
+    "s": 4.66,
+    "e": 5.05
+   },
+   {
+    "w": "Sundays",
+    "s": 5.06,
+    "e": 5.53
+   },
+   {
+    "w": "two.",
+    "s": 5.54,
+    "e": 5.93
+   }
+  ]
+ },
+ "14": {
+  "text": "We qualify them, book them onto your calendar, and handle the follow-up.",
+  "file": "vo/clips/u14.wav",
+  "provider": "voice",
+  "voice": "ahmed-voicenote",
+  "words": [
+   {
+    "w": "We",
+    "s": 0.033,
+    "e": 0.182
+   },
+   {
+    "w": "qualify",
+    "s": 0.192,
+    "e": 0.743
+   },
+   {
+    "w": "them,",
+    "s": 0.753,
+    "e": 1.062
+   },
+   {
+    "w": "book",
+    "s": 1.072,
+    "e": 1.382
+   },
+   {
+    "w": "them",
+    "s": 1.392,
+    "e": 1.542
+   },
+   {
+    "w": "onto",
+    "s": 1.552,
+    "e": 1.782
+   },
+   {
+    "w": "your",
+    "s": 1.792,
+    "e": 1.942
+   },
+   {
+    "w": "calendar,",
+    "s": 1.952,
+    "e": 2.502
+   },
+   {
+    "w": "and",
+    "s": 2.512,
+    "e": 2.663
+   },
+   {
+    "w": "handle",
+    "s": 2.673,
+    "e": 2.982
+   },
+   {
+    "w": "the",
+    "s": 2.992,
+    "e": 3.072
+   },
+   {
+    "w": "follow-up.",
+    "s": 3.072,
+    "e": 3.78
+   }
+  ]
+ },
+ "15": {
+  "text": "\"I tried Facebook ads and the leads were garbage.\"",
+  "file": "vo/clips/u15.wav",
+  "provider": "voice",
+  "voice": "ahmed-voicenote",
+  "words": [
+   {
+    "w": "I",
+    "s": 0.087,
+    "e": 0.237
+   },
+   {
+    "w": "tried",
+    "s": 0.247,
+    "e": 0.637
+   },
+   {
+    "w": "Facebook",
+    "s": 0.647,
+    "e": 1.117
+   },
+   {
+    "w": "ads",
+    "s": 1.127,
+    "e": 1.437
+   },
+   {
+    "w": "and",
+    "s": 1.447,
+    "e": 1.597
+   },
+   {
+    "w": "the",
+    "s": 1.607,
+    "e": 1.687
+   },
+   {
+    "w": "leads",
+    "s": 1.687,
+    "e": 2.077
+   },
+   {
+    "w": "were",
+    "s": 2.087,
+    "e": 2.237
+   },
+   {
+    "w": "garbage.",
+    "s": 2.247,
+    "e": 3.13
+   }
+  ]
+ },
+ "16": {
+  "text": "Facebook didn't fail you.",
+  "file": "vo/clips/u16.wav",
+  "provider": "voice",
+  "voice": "ahmed-voicenote",
+  "words": [
+   {
+    "w": "Facebook",
+    "s": 0.087,
+    "e": 0.797
+   },
+   {
+    "w": "didn't",
+    "s": 0.807,
+    "e": 1.037
+   },
+   {
+    "w": "fail",
+    "s": 1.047,
+    "e": 1.438
+   },
+   {
+    "w": "you.",
+    "s": 1.448,
+    "e": 1.83
+   }
+  ]
+ },
+ "17": {
+  "text": "Nobody called those leads in the first five minutes and nobody qualified them.",
+  "file": "vo/clips/u17.wav",
+  "provider": "voice",
+  "voice": "ahmed-voicenote",
+  "words": [
+   {
+    "w": "Nobody",
+    "s": 0.127,
+    "e": 0.597
+   },
+   {
+    "w": "called",
+    "s": 0.607,
+    "e": 0.917
+   },
+   {
+    "w": "those",
+    "s": 0.927,
+    "e": 1.157
+   },
+   {
+    "w": "leads",
+    "s": 1.167,
+    "e": 1.478
+   },
+   {
+    "w": "in",
+    "s": 1.488,
+    "e": 1.638
+   },
+   {
+    "w": "the",
+    "s": 1.648,
+    "e": 1.728
+   },
+   {
+    "w": "first",
+    "s": 1.728,
+    "e": 1.958
+   },
+   {
+    "w": "five",
+    "s": 1.968,
+    "e": 2.277
+   },
+   {
+    "w": "minutes",
+    "s": 2.287,
+    "e": 2.757
+   },
+   {
+    "w": "and",
+    "s": 2.767,
+    "e": 2.997
+   },
+   {
+    "w": "nobody",
+    "s": 3.007,
+    "e": 3.397
+   },
+   {
+    "w": "qualified",
+    "s": 3.407,
+    "e": 4.037
+   },
+   {
+    "w": "them.",
+    "s": 4.047,
+    "e": 4.53
+   }
+  ]
+ },
+ "18": {
+  "text": "That's the part we do.",
+  "file": "vo/clips/u18.wav",
+  "provider": "voice",
+  "voice": "ahmed-voicenote",
+  "words": [
+   {
+    "w": "That's",
+    "s": 0.03,
+    "e": 0.34
+   },
+   {
+    "w": "the",
+    "s": 0.35,
+    "e": 0.5
+   },
+   {
+    "w": "part",
+    "s": 0.51,
+    "e": 0.74
+   },
+   {
+    "w": "we",
+    "s": 0.75,
+    "e": 0.98
+   },
+   {
+    "w": "do.",
+    "s": 0.99,
+    "e": 1.48
+   }
+  ]
+ },
+ "19": {
+  "text": "General contractors and home improvement companies. Remodels, kitchens, bathrooms, ADUs, and additions.",
+  "file": "vo/clips/u19.wav",
+  "provider": "voice",
+  "voice": "ahmed-voicenote",
+  "words": [
+   {
+    "w": "General",
+    "s": 0.092,
+    "e": 0.562
+   },
+   {
+    "w": "contractors",
+    "s": 0.572,
+    "e": 1.282
+   },
+   {
+    "w": "and",
+    "s": 1.292,
+    "e": 1.442
+   },
+   {
+    "w": "home",
+    "s": 1.452,
+    "e": 1.682
+   },
+   {
+    "w": "improvement",
+    "s": 1.692,
+    "e": 2.162
+   },
+   {
+    "w": "companies:",
+    "s": 2.172,
+    "e": 2.882
+   },
+   {
+    "w": "remodels,",
+    "s": 2.892,
+    "e": 3.763
+   },
+   {
+    "w": "kitchens,",
+    "s": 3.773,
+    "e": 4.402
+   },
+   {
+    "w": "bathrooms,",
+    "s": 4.412,
+    "e": 5.122
+   },
+   {
+    "w": "ADUs,",
+    "s": 5.132,
+    "e": 5.763
+   },
+   {
+    "w": "and",
+    "s": 5.773,
+    "e": 5.923
+   },
+   {
+    "w": "additions.",
+    "s": 5.933,
+    "e": 6.68
+   }
+  ]
+ },
+ "20": {
+  "text": "We turn away contractors who can't take on more work.",
+  "file": "vo/clips/u20.wav",
+  "provider": "voice",
+  "voice": "ahmed-voicenote",
+  "words": [
+   {
+    "w": "We",
+    "s": 0.032,
+    "e": 0.182
+   },
+   {
+    "w": "turn",
+    "s": 0.192,
+    "e": 0.502
+   },
+   {
+    "w": "away",
+    "s": 0.512,
+    "e": 0.822
+   },
+   {
+    "w": "contractors",
+    "s": 0.832,
+    "e": 1.462
+   },
+   {
+    "w": "who",
+    "s": 1.472,
+    "e": 1.552
+   },
+   {
+    "w": "can't",
+    "s": 1.552,
+    "e": 1.862
+   },
+   {
+    "w": "take",
+    "s": 1.872,
+    "e": 2.022
+   },
+   {
+    "w": "on",
+    "s": 2.032,
+    "e": 2.182
+   },
+   {
+    "w": "more",
+    "s": 2.192,
+    "e": 2.422
+   },
+   {
+    "w": "work",
+    "s": 2.432,
+    "e": 2.83
+   }
+  ]
+ },
+ "21": {
+  "text": "So, what should you do next? Book a call.",
+  "file": "vo/clips/u21.wav",
+  "provider": "voice",
+  "voice": "ahmed-voicenote",
+  "words": [
+   {
+    "w": "So,",
+    "s": 0.09,
+    "e": 0.56
+   },
+   {
+    "w": "what",
+    "s": 0.57,
+    "e": 0.8
+   },
+   {
+    "w": "should",
+    "s": 0.81,
+    "e": 1.04
+   },
+   {
+    "w": "you",
+    "s": 1.05,
+    "e": 1.2
+   },
+   {
+    "w": "do",
+    "s": 1.21,
+    "e": 1.36
+   },
+   {
+    "w": "next?",
+    "s": 1.37,
+    "e": 2.0
+   },
+   {
+    "w": "Book",
+    "s": 2.01,
+    "e": 2.32
+   },
+   {
+    "w": "a",
+    "s": 2.33,
+    "e": 2.48
+   },
+   {
+    "w": "call.",
+    "s": 2.49,
+    "e": 2.83
+   }
+  ]
+ },
+ "22": {
+  "text": "It's with me, not a sales rep.",
+  "file": "vo/clips/u22.wav",
+  "provider": "voice",
+  "voice": "ahmed-voicenote",
+  "words": [
+   {
+    "w": "It's",
+    "s": 0.07,
+    "e": 0.38
+   },
+   {
+    "w": "with",
+    "s": 0.39,
+    "e": 0.54
+   },
+   {
+    "w": "me,",
+    "s": 0.55,
+    "e": 0.94
+   },
+   {
+    "w": "not",
+    "s": 0.95,
+    "e": 1.1
+   },
+   {
+    "w": "a",
+    "s": 1.11,
+    "e": 1.26
+   },
+   {
+    "w": "sales",
+    "s": 1.27,
+    "e": 1.58
+   },
+   {
+    "w": "rep.",
+    "s": 1.59,
+    "e": 2.08
+   }
+  ]
+ },
+ "23": {
+  "text": "I'll tell you straight whether we're a fit.",
+  "file": "vo/clips/u23.wav",
+  "provider": "voice",
+  "voice": "ahmed-voicenote",
+  "words": [
+   {
+    "w": "I'll",
+    "s": 0.07,
+    "e": 0.3
+   },
+   {
+    "w": "tell",
+    "s": 0.31,
+    "e": 0.46
+   },
+   {
+    "w": "you",
+    "s": 0.47,
+    "e": 0.62
+   },
+   {
+    "w": "straight",
+    "s": 0.63,
+    "e": 0.94
+   },
+   {
+    "w": "whether",
+    "s": 0.95,
+    "e": 1.26
+   },
+   {
+    "w": "we're",
+    "s": 1.27,
+    "e": 1.42
+   },
+   {
+    "w": "a",
+    "s": 1.43,
+    "e": 1.58
+   },
+   {
+    "w": "fit.",
+    "s": 1.59,
+    "e": 2.03
+   }
+  ]
+ },
+ "24": {
+  "text": "If we are, I'll show you a demo of exactly how it works.",
+  "file": "vo/clips/u24.wav",
+  "provider": "voice",
+  "voice": "ahmed-voicenote",
+  "words": [
+   {
+    "w": "If",
+    "s": 0.05,
+    "e": 0.2
+   },
+   {
+    "w": "we",
+    "s": 0.21,
+    "e": 0.36
+   },
+   {
+    "w": "are,",
+    "s": 0.37,
+    "e": 0.76
+   },
+   {
+    "w": "I'll",
+    "s": 0.77,
+    "e": 1.0
+   },
+   {
+    "w": "show",
+    "s": 1.01,
+    "e": 1.16
+   },
+   {
+    "w": "you",
+    "s": 1.17,
+    "e": 1.32
+   },
+   {
+    "w": "a",
+    "s": 1.33,
+    "e": 1.41
+   },
+   {
+    "w": "demo",
+    "s": 1.41,
+    "e": 1.88
+   },
+   {
+    "w": "of",
+    "s": 1.89,
+    "e": 2.04
+   },
+   {
+    "w": "exactly",
+    "s": 2.05,
+    "e": 2.52
+   },
+   {
+    "w": "how",
+    "s": 2.53,
+    "e": 2.76
+   },
+   {
+    "w": "it",
+    "s": 2.77,
+    "e": 3.0
+   },
+   {
+    "w": "works.",
+    "s": 3.01,
+    "e": 3.68
+   }
+  ]
+ }
+}
